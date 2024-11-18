@@ -1,0 +1,1 @@
+# Automated-Waste-Segregation-using-YOLOv11
